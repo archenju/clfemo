@@ -1,0 +1,13 @@
+model,time,f1_score,Training score,Test score
+vect-sgd,0.69,0.861,0.981,0.900
+vect-tfidf-sgd,0.57,0.863,0.953,0.899
+vect-svm,95.29,0.776,0.972,0.839
+vect-tfidf-svm,90.27,0.813,0.990,0.866
+vect-svml,1.66,0.858,0.993,0.897
+vect-tfidf-svml,0.66,0.865,0.985,0.901
+vect-logit,5.32,0.859,0.984,0.895
+vect-tfidf-logit,4.49,0.826,0.944,0.876
+vect-knn,0.58,0.508,0.749,0.591
+vect-tfidf-knn,0.33,0.729,0.871,0.792
+vect-ngram-sgd,1.13,0.864,0.997,0.901
+vect-ngram-tfidf-svml,2.22,0.866,0.997,0.902

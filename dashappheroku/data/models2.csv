@@ -1,0 +1,5 @@
+model,time,f1_score,Training score,Test score
+vect-tfidf-sgd,1.95,0.180,0.824,0.321
+vect-tfidf-svml,6.04,0.179,0.908,0.321
+vect-tfidf-logit,39.87,0.176,0.553,0.350
+vect-tfidf-knn,0.81,0.075,0.354,0.240
